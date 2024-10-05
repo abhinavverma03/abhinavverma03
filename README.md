@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavverma03&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavverma03" /> </p>
 
-- 🌱 I’m currently learning **React, Devops, Deep Learning**
+- 🌱 I’m currently learning **NextJS, Devops, Deep Learning**
 
 - 📫 How to reach me **mudunuriabhi@gmail.com**
 
